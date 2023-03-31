@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680225856 source:c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\exerciciosed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1680225861 c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\exerciciosed1\header.h
+	<stdlib.h>
+
