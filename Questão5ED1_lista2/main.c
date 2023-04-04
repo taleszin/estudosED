@@ -3,10 +3,10 @@
 #include "calculo.h"
 int main()
 {
-    double x = 5; //x é o valor do diâmetro
-    double are = area(x);
-    double rai = raio(x);
-    double vol = volume(x);
-    printf("%f %f %f", are, rai, vol);
+    double x = 1; //x é o valor do diâmetro
+    double are = calc_area(x);
+    double rai = calc_raio(x);
+    double vol = calc_volume(x);
+    printf("%.2f %.2f %.2f", are, rai, vol);
     return 0;
 }

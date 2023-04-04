@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1680232529 source:c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\questão5ed1_lista2\main.c
+1680569514 source:c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\questão5ed1_lista2\main.c
 	<stdio.h>
 	<stdlib.h>
 	"calculo.h"
 
-1680231711 c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\questão5ed1_lista2\calculo.h
+1680569820 c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\questão5ed1_lista2\calculo.h
 
-1680232745 source:c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\questão5ed1_lista2\calculo.c
+1680569514 source:c:\users\santi\onedrive\Área de trabalho\faculdade\2023.1\estrutura de dados 1\questão5ed1_lista2\calculo.c
 	"calculo.h"
 
