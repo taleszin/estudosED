@@ -31,11 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="calculo.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="calculos.c">
+		<Unit filename="calculo.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calculo.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="main.c">
