@@ -7,10 +7,9 @@ public class novaMainListas {
         stack.push("Segundo");
         stack.push("Terceiro");
         
-        for(int i = 0; i < 3; i++) {
-            stack.pop();
+        for(int i = 0; i < stack.size(); i++) {
+            System.out.println(stack);
         }
-        
         if(stack.empty()) {
             System.out.println("vazia");
         }
